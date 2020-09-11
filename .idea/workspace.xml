@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87f105c4-2d8b-47f7-adce-3508b6bab0c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/VerifyDeletingLot2020-06-17-07-38-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/VerifyEditingLotsInfo2020-06-17-07-37-55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/loginTest2020-08-26-07-23-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddAdditionalCharges2020-06-17-07-17-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddBuyerInfo2020-06-17-07-16-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddCommissionAndAgents2020-06-17-07-17-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddDeliveryInfo2020-06-17-07-16-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddLotsInfo2020-06-08-07-06-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddVendorInfo2020-06-23-01-17-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAddingValueToPerKGFieldInLot2020-06-17-07-24-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAdditionalChargesLabel2020-06-17-07-16-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyAttachments2020-06-17-06-32-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyBidAndOfferListingType2020-07-08-08-58-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyBidAndOfferListingType2020-08-24-03-15-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyBuyerInfoLabel2020-06-17-07-16-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyClassifiedListingType2020-07-08-08-57-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyClassifiedListingType2020-08-24-03-09-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyClassifiedListingType2020-08-24-03-14-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyCommissionAndAgentsLabel2020-06-17-07-16-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyContracts2020-08-20-06-34-56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyContracts2020-08-26-07-24-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyDashboardHeaderLabel2020-08-20-06-35-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyDeliveryInfoLabel2020-06-17-07-16-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyDisabledListingType2020-06-17-07-37-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyEnabledListingType2020-06-17-07-38-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingAssessmentOverviewDetails2020-06-17-06-47-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingAssessmentOverviewDetails2020-07-08-09-25-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingBreedingOverviewDetails2020-07-08-09-30-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingClassifiedListingOverviewDetails2020-06-17-07-10-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingClassifiedLotDetails2020-06-17-07-12-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingDeliveryDetails2020-07-08-09-38-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingHealthVetDetails2020-07-08-09-35-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingListingOverviewDetails2020-06-17-06-39-55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingListingOverviewDetails2020-07-08-09-11-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingListingOverviewDetails2020-08-25-08-51-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingLiveWeightDetails2020-06-17-06-56-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingLiveWeightDetails2020-07-08-09-40-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyFillingNewContract2020-06-17-07-15-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyHamburger2020-08-20-06-35-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingInfoNavigation2020-07-08-09-04-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeOptions2020-06-23-02-04-37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeOptions2020-07-08-08-56-59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeOptions2020-08-24-03-08-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeOptions2020-08-24-03-13-56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeOptions2020-08-25-05-52-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeSelection2020-07-08-09-02-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyListingTypeSelectionClassified2020-06-17-07-09-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyLotSummaryPageHeaderLabels2020-06-17-06-30-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyLotSummaryPageValues2020-06-17-06-31-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyLotsLabel2020-08-25-05-39-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContract2020-08-20-06-35-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractAddLotsInfo2020-06-17-07-16-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractAddNotes2020-06-17-07-17-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractAddSalesInformation2020-06-17-07-16-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractAddVendorInfo2020-06-17-07-16-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractAttachments2020-06-17-07-17-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractAttachmentsLabel2020-06-17-07-16-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractHeaderLabel2020-06-17-07-15-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractLotsLabel2020-06-17-07-16-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractNavigation2020-06-17-07-15-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractNavigationFromListingPage2020-06-17-07-14-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractNotes2020-06-17-07-18-37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractNotesLabel2020-06-17-07-16-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractSalesInformationLabel2020-06-17-07-15-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewContractVendorInfoLabel2020-06-17-07-16-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewOpportunity2020-08-20-06-35-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewOpportunityNavigation2020-06-23-01-12-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewOpportunityNavigation2020-08-24-03-07-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewOpportunityNavigation2020-08-24-03-13-21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewOpportunityNavigation2020-08-24-03-19-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNewOpportunityNavigation2020-08-25-05-38-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyNotes2020-06-17-06-34-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyOpportunities2020-08-20-06-35-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyProfileIcon2020-08-20-06-35-23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyPublishListing2020-07-08-09-41-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifySalesInformationLabel2020-08-25-05-38-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifySearch2020-08-20-06-35-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyValidateContract2020-06-17-07-19-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyVendorInfoLabel2020-08-25-05-39-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/verifyWeightValueOnLotGridPage2020-06-17-07-24-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_18_18_53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_18_18_56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_18_18_57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_18_41_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_18_41_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_18_41_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_19_23_27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_19_38_55.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_19_44_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_19_44_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_20_04_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_07_20_04_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_55_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_55_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_55_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_55_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_55_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_57_44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_57_45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_57_46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_57_47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_18_57_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_08_19_34_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_17_18_22_44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_17_18_22_46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_17_18_22_47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_17_18_22_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_17_18_57_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_17_19_19_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_12_58_31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_12_58_34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_10_00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_10_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_10_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_12_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_12_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_12_27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_14_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_14_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_14_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_14_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_31_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_31_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_31_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_36_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_36_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_41_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_41_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_48_44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_48_45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_48_46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_57_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_57_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_06_23_13_57_44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_02_15_53_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_02_15_53_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_02_15_53_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_02_15_53_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_08_20_48_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_08_20_48_28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_07_08_20_48_29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_20_18_32_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_20_18_34_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_20_18_34_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_22_20_19_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_22_20_28_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_22_20_28_52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_01_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_01_53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_06_47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_06_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_06_49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_12_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_12_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_12_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_12_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_12_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_18_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_18_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_24_15_18_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_30_57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_30_59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_37_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_37_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_37_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_37_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_37_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_43_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_43_34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_17_43_35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_18_11_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_20_39_40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_20_39_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_25_20_39_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_07_19_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_07_22_44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_07_22_45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_07_29_40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_07_29_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_08_02_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_08_02_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/log_2020_08_26_08_02_20.txt" beforeDir="false" />
+    </list>
+    <list id="bea24418-9ff8-4eba-8d92-d0529ab44194" name="Revert &quot;login script&quot;" comment="Revert &quot;login script&quot;&#10;&#10;This reverts commit f3383e00" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="excludeTargetFolder" value="false" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SdWbLi1bRZhuyZZ19QV9aTrk2u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sampleInternalProject" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/E_Contract" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/Drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages_web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test/Opportunity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ataurrahman/Documents/TabTestAutomation/TabTestAutomation/testng.xml">
+    <configuration name="ArrayOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic_pages.ArrayOutput" />
+      <module name="LandmarkTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic_pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithoutCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic_pages.WithoutCollection" />
+      <module name="LandmarkTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic_pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opportunity.Opp_Record_Listing_Info in LandmarkTestAutomation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LandmarkTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opportunity.Opp_Record_Listing_Info.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Opportunity.Opp_Record_Listing_Info" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LandmarkTestAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ataurrahman/Documents/TabTestAutomation/TabTestAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LandmarkTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ataurrahman/Documents/TabTestAutomation/TabTestAutomation/testng.xml" />
+        <item itemvalue="JUnit.Opportunity.Opp_Record_Listing_Info in LandmarkTestAutomation" />
+        <item itemvalue="TestNG.LoginTest.loginTest" />
+        <item itemvalue="Application.WithoutCollection" />
+        <item itemvalue="Application.ArrayOutput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87f105c4-2d8b-47f7-adce-3508b6bab0c9" name="Default Changelist" comment="" />
+      <created>1571894023484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571894023484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;login script&quot;&#10;&#10;This reverts commit f3383e00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;login script&quot;&#10;&#10;This reverts commit f3383e00" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590677560462">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1590677560462" />
+    <state x="98" y="122" key="#xdebugger.evaluate" timestamp="1592546378317">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="98" y="122" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1592546378317" />
+    <state width="1238" height="209" key="GridCell.Tab.0.bottom" timestamp="1598409077418">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1598409077418" />
+    <state width="1238" height="209" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1598406551752" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592546953091" />
+    <state width="1238" height="209" key="GridCell.Tab.0.center" timestamp="1598409077416">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1598409077416" />
+    <state width="1238" height="209" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1598406551750" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1592546953089" />
+    <state width="1238" height="209" key="GridCell.Tab.0.left" timestamp="1598409077415">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1598409077415" />
+    <state width="1238" height="209" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1598406551749" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1592546953088" />
+    <state width="1238" height="209" key="GridCell.Tab.0.right" timestamp="1598409077417">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1598409077417" />
+    <state width="1238" height="209" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1598406551750" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1592546953090" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1592546953093">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592546953093" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1592546953092">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1592546953092" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1592546953091">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1592546953091" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1592546953092">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1592546953092" />
+    <state x="327" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592139094261">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="327" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1592139094261" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1592402933361">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1592402933361" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages_android/LoginPage.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/base/TestBase.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/Dashboard/DashboardTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/DataReader.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/DataReader.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/CommonFunctionsMobile.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/CommonFunctionsMobile.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages_ios/ListingInfoPage.java</url>
+          <line>577</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityTest.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>198</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>227</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>236</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/E_Contract/Econtract_Creation_Wizard/NewContractDashboardTest.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityTest.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityTest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages_ios/NewOpportunityPage.java</url>
+          <line>287</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityTest.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityTest.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/Opp_Record_Listing_Info/ListingInfoTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/Opp_Record_Listing_Info/ListingInfoTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/Opp_Record_Listing_Info/ListingInfoTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityConditionalTest.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityConditionalTest.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Opportunity/NewOpportunityConditionalTest.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LandmarkTestAutomation$Opportunity_Opp_Record_Listing_Info_in_LandmarkTestAutomation.ic" NAME="Opportunity.Opp_Record_Listing_Info in LandmarkTestAutomation Coverage Results" MODIFIED="1591681237758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Opportunity.Opp_Record_Listing_Info.*</FILTER>
+    </SUITE>
+  </component>
+</project>
